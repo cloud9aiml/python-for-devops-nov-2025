@@ -19,6 +19,8 @@ Build out pythin project Scaffold:
 * Microservice
     
 
+1. Create a virtual environment virtualenv ~/.venv
+2. edit my '~.bashrc'
 
 ## AWS CloudShell
 ## AWS Cloud9
