@@ -2,4 +2,6 @@ from random import choices
 
 def fruit():
     fruits = ["apple", "orange", "banana"]
-    return choices(fruits[0])
+    return choices(fruits)[0]
+#var = 1
+#var = var

@@ -1,3 +1,6 @@
 install:
 	pip install --upgrade pipp &&\
 		pip install -r requirements.txt
+
+lint:
+	pylint --disable="R, C" *.py
