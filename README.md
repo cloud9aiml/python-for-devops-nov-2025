@@ -13,17 +13,18 @@ Create development environment that is cloud-based:
 ## Github Codespaces
 Build out pythin project Scaffold:
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/cloud9aiml/python-for-devops-nov-2025/blob/main/Makefile)
+* requirements.txt(https://github.com/cloud9aiml/python-for-devops-nov-2025/blob/main/requirements.txt)
+* test_devopslib.py(https://github.com/cloud9aiml/python-for-devops-nov-2025/blob/main/test_devopslib.py)
+* python_library(https://github.com/cloud9aiml/python-for-devops-nov-2025/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
-    
+* Clone project then run 'make all'
 
-1. Create a virtual environment virtualenv ~/.venv
-2. edit my '~.bashrc'
+1. Create a virtual environment 'virtualenv ~/.venv'
+2. edit my '~.bashrc' adn then add 'source ~/.venv/bin/activate'
+3. clone project then run 'make all'
 
 ## AWS CloudShell
 ## AWS Cloud9
